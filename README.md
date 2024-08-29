@@ -10,7 +10,7 @@ Text Editor: Integrated text editor with rich text formatting options for writin
 
 
 ## Frontend:
-React.js
+React.js  
 Tailwind CSS
 ## Backend:
 Appwrite for backend
